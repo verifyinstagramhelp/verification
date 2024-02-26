@@ -67,13 +67,6 @@ main {
     margin: 0 10px;
 }
 
-.sign-up {
-    text-align: center;
-    border: 1px solid rgba(128, 128, 128, 0.3);
-    padding: 20px;
-    margin: 10px;
-}
-
 .get-app {
     display: flex;
     flex-direction: column;
